@@ -15,3 +15,4 @@ with(data, {
   
   plot(dateTime, data$Global_reactive_power, ylab = "Global_reactive_power", type = "l")
 })
+
